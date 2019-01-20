@@ -1,7 +1,7 @@
 # my_world
 EPITECH PROJECT
 
-Done in first year by [Gaël Dorckel](https://github.com/UselessNinja) and [Arnaud Sebaa](https://github.com/Kwerox).
+Done in first year by [Gaël Dorckel](https://github.com/UselessNinja) and [Arnaud Sebaa](https://github.com/Asarne).
 
 ## Requirements
 You will need the CSFML library to compile it.
